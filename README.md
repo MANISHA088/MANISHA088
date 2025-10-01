@@ -35,11 +35,11 @@
 
 ## :star: About ##
 
-- 🔭 I’m currently working on [Portfolio🚀](https://MANISHA088.github.io/portfolio-website/)
+- 🔭 I’m currently working on [Portfolio🚀](https://MANISHA088.github.io/My-Portfolio/)
 
 - 🤝 I’m looking for help with **Business strategy analysis**
 
-- 👨‍💻 All of my projects are available at [https://MANISHA088.github.io/portfolio-website/](https://MANISHA088.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://MANISHA088.github.io/portfolio-website/](https://MANISHA088.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Web development basics (HTML, CSS, JavaScript) Building and customizing portfolio websites Business strategy & management concepts Data analysis with Excel and Python**
 
@@ -51,7 +51,7 @@ I'm a color-coding spreadsheet lover and IITM Feista coordinator!
 
 ## :mailbox: Contact Me ##
 
-  **Email:** [manishashr2001@gmail.com](mailto:manishashr2001@gmail.com)  **💻 Portfolio:** [manisha088.github.io/portfolio-website](https://manisha088.github.io/portfolio-website)
+  **Email:** [manishashr2001@gmail.com](mailto:manishashr2001@gmail.com)  **💻 Portfolio:** [manisha088.github.io/portfolio-website](https://manisha088.github.io/My-Portfolio/)
 <p align="center">
 <a href="https://linkedin.com/in/manisha-da08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha-da08" height="30" width="40" /></a>
 <a href="https://kaggle.com/mansha08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mansha08" height="30" width="40" /></a>
