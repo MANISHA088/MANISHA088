@@ -55,7 +55,7 @@ I'm a color-coding spreadsheet lover and IITM Feista coordinator!
 <p align="center">
 <a href="https://linkedin.com/in/manisha-da08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manisha-da08" height="30" width="40" /></a>
 <a href="https://kaggle.com/mansha08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mansha08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vizdecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vizdecode" height="30" width="40" /></a>
+<a href="https://youtube.com/@vizdecode?si=xd7L73Ocr8ixHiuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vizdecode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manishasl1v8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manishasl1v8" height="30" width="40" /></a>
 <a href="https://t.me/mansha_00" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/2CA5E0"alt="mansha_00" height="30" width="30" /></a>
 </p>
