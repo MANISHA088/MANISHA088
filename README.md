@@ -98,7 +98,7 @@ I'm a color-coding spreadsheet lover and IITM Feista coordinator!
 </div>
 
 ###
-
+<!--
 ## :bar_chart: GitHub Stats
 
 <div align="center">
@@ -110,7 +110,7 @@ I'm a color-coding spreadsheet lover and IITM Feista coordinator!
   <img src="https://streak-stats.demolab.com?user=MANISHA088&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 <!--  <img src="https://github-profile-trophy.vercel.app?username=MANISHA088&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
-
+-->
 
 ###
 ## :video_game: Contribution
